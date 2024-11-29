@@ -14,3 +14,6 @@ https://colab.research.google.com/drive/1CsDMHBP1JM6i-_udxavMSDMT95l1A4xQ?usp=sh
 
 Diffusion
 https://colab.research.google.com/drive/1T22SV4OwVRDAc3xydRvQsmUaa46Jp0Sn?usp=sharing
+
+HuggingFace Diffuser
+https://colab.research.google.com/drive/1eoBcaDTHFs52Ng7fpkwEc8idbigXeASB?usp=sharing
